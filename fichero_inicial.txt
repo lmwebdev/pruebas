@@ -1,3 +1,5 @@
 Linea 1 fichero inicial
 Linea 2 fichero inicial
 Linea 3 fichero inicial
+Linea 4
+Linea 5
